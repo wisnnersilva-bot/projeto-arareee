@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668612762958",
+    "firebase_url": "https://dbcadastro-1dec1-default-rtdb.firebaseio.com",
+    "project_id": "dbcadastro-1dec1",
+    "storage_bucket": "dbcadastro-1dec1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668612762958:android:bfa24c29db77286f4b521f",
+        "android_client_info": {
+          "package_name": "com.company.arareee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oSRe79ivWM32SEymPgw74UNYw5v8pAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
